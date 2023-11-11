@@ -34,7 +34,7 @@ The training process incorporates early stopping and model checkpointing to prev
 Hyperparameter tuning was performed using the Keras Tuner library. Various configurations, including the number of layers, units per layer, activation functions, dropout rates, and the optimizer, were explored to optimize the DistilBERT-based model.
 
 <h2>_**4. Results**_</h2>
-<h3>4.1 Model Performance (Without Fine-Tuning)<\h3>
+<h3>4.1 Model Performance (Without Fine-Tuning)</h3>
 <h4>4.1.1 Accuracy</h4>
 Accuracy Score: 0.8592210229938996
 <h4>4.1.2 Precision</h4>
@@ -45,7 +45,7 @@ Weighted Precision Score: 0.8625664847936705
 Micro-Averaged Recall Score: 0.8592210229938996
 Macro-Averaged Recall Score: 0.8554711326736939
 Weighted Recall Score: 0.8592210229938996
-<h4>4.1.4 F1 Score<\h4>
+<h4>4.1.4 F1 Score</h4>
 Micro-Averaged F1 Score: 0.8592210229938996
 Macro-Averaged F1 Score: 0.8604079281821589
 Weighted F1 Score: 0.8594579169032848
