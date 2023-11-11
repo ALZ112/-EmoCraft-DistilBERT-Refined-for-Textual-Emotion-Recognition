@@ -79,5 +79,5 @@ Investigate ensemble models to improve predictive accuracy.
 Develop a user interface for real-time emotion prediction.
 
 <h2>_**6. Conclusion**_</h2>
-The successful implementation of DistilBERT for emotion detection showcases its potential in accurately classifying emotions from text. The combination of an efficient model architecture, hyperparameter tuning, and comprehensive evaluation contributes to improved performance in understanding and classifying textual emotions.
-Reference :<a>https://www.kaggle.com/code/sayamkumar/human-emotion-recognition-using-fine-tuned-bert/notebook</a> 
+The successful implementation of DistilBERT for emotion detection showcases its potential in accurately classifying emotions from text. The combination of an efficient model architecture, hyperparameter tuning, and comprehensive evaluation contributes to improved performance in understanding and classifying textual emotions.<br>
+Reference :<hlink>https://www.kaggle.com/code/sayamkumar/human-emotion-recognition-using-fine-tuned-bert/notebook</hlink> 
