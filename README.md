@@ -1,4 +1,4 @@
-<h1> Emotion Detection with DistilBER </h1
+<h1>Text Emotion Detection with fine-tuned DistilBERT </h1
 
 Emotion detection is a critical aspect of natural language understanding, with applications ranging from sentiment analysis to mental health monitoring. This report outlines the development, training, and evaluation of an emotion detection model using DistilBERT, a distilled version of BERT.
 
