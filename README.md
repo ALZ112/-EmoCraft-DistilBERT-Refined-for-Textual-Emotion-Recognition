@@ -38,9 +38,9 @@ Hyperparameter tuning was performed using the Keras Tuner library. Various confi
 <h4>4.1.1 Accuracy</h4>
 Accuracy Score: 0.8592210229938996<br>
 <h4>4.1.2 Precision</h4>
-Micro-Averaged Precision Score: 0.8592210229938996 <br>
-Macro-Averaged Precision Score: 0.8679396176468916<br>
-Weighted Precision Score: 0.8625664847936705<br>
+Micro-Averaged Precision Score: 0.8592210229938996 <br>                                                                                                                
+Macro-Averaged Precision Score: 0.8679396176468916<br>                                                                                                               
+Weighted Precision Score: 0.8625664847936705<br>                                                                                                                       
 <h4>4.1.3 Recall</h4>
 Micro-Averaged Recall Score: 0.8592210229938996<br>
 Macro-Averaged Recall Score: 0.8554711326736939<br>
